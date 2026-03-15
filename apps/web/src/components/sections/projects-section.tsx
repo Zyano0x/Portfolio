@@ -21,7 +21,7 @@ const PROJECTS = [
 			"Full-stack link-sharing platform with real-time analytics, QR code generation, and URL management.",
 		tech: ["Next.js", "Supabase", "Prisma", "Shadcn/ui", "Zod"],
 		github: "https://github.com/Zyano0x/Linkly",
-		image: "/images/projects/linkly.png",
+		image: "/portfolio/images/projects/linkly.png",
 		date: "Dec 2024",
 	},
 	{
@@ -30,7 +30,7 @@ const PROJECTS = [
 			"Task management app with CRUD operations, RESTful API, filtering, searching, and pagination.",
 		tech: ["React", "Express.js", "Supabase", "Prisma", "Zod"],
 		github: "https://github.com/Zyano0x/Taskly",
-		image: "/images/projects/taskly.png",
+		image: "/portfolio/images/projects/taskly.png",
 		date: "Oct 2024",
 	},
 	{
@@ -39,7 +39,7 @@ const PROJECTS = [
 			"Modern tour booking system with beautiful UI, optimized performance, and enhanced UX.",
 		tech: ["Next.js", "TypeScript", "TailwindCSS"],
 		github: "https://github.com/Zyano0x/Tourify",
-		image: "/images/projects/tourify.png",
+		image: "/portfolio/images/projects/tourify.png",
 		date: "2024",
 	},
 	{
@@ -48,7 +48,7 @@ const PROJECTS = [
 			"Tour booking system with JWT auth, role-based access, automated emails, and SSR UI.",
 		tech: ["Spring Boot", "Spring Security", "MySQL", "Thymeleaf"],
 		github: "https://github.com/Zyano0x/BookTrip",
-		image: "/images/projects/booktrip.png",
+		image: "/portfolio/images/projects/booktrip.png",
 		date: "Nov 2023 – Apr 2024",
 	},
 ] as const;
